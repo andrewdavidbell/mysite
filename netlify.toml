@@ -1,5 +1,5 @@
 [build]
-command = "hugo --theme=strange-case"
+command = "hugo"
 
 [context.deploy-preview.environment]
 HUGO_VERSION="0.74.2"
