@@ -1,6 +1,0 @@
-[submodule "themes/strange-case"]
-	path = themes/strange-case
-	url = https://github.com/ExchangeRate-API/strange-case.git
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
